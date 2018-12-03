@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8FE4BDC0-D345-4918-8758-A3D9FA8B913B}</ProjectGuid>
+    <ProjectGuid>{B610F5A6-E3AC-4F91-8735-5C0956F80BED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Puzzle1</RootNamespace>
-    <AssemblyName>Puzzle1</AssemblyName>
+    <RootNamespace>Puzzle2</RootNamespace>
+    <AssemblyName>Puzzle2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
